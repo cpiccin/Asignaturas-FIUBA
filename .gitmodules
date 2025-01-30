@@ -1,0 +1,15 @@
+[submodule "Algoritmos-y-Programacion-I"]
+	path = Algoritmos-y-Programacion-I
+	url = https://github.com/cpiccin/Algoritmos-y-Programacion-I.git
+[submodule "Algoritmos-y-Programacion-II"]
+	path = Algoritmos-y-Programacion-II
+	url = https://github.com/cpiccin/Algoritmos-y-Programacion-II.git
+[submodule "Organizacion-del-Computador"]
+	path = Organizacion-del-Computador
+	url = https://github.com/cpiccin/Organizacion-del-Computador.git
+[submodule "Paradigmas-de-Programacion"]
+	path = Paradigmas-de-Programacion
+	url = https://github.com/cpiccin/Paradigmas-de-Programacion.git
+[submodule "Taller-de-Programacion"]
+	path = Taller-de-Programacion
+	url = https://github.com/cpiccin/Taller-de-Programacion.git

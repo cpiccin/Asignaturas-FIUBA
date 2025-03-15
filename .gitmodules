@@ -13,3 +13,6 @@
 [submodule "Taller-de-Programacion"]
 	path = Taller-de-Programacion
 	url = https://github.com/cpiccin/Taller-de-Programacion.git
+[submodule "Ingenieria-de-Software-I"]
+	path = Ingenieria-de-Software-I
+	url = https://github.com/cpiccin/Ingenieria-de-Software-I.git
